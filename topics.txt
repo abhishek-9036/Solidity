@@ -3,3 +3,9 @@ State Variable & Local Variable
 Getter & Setter function
 Pure and View Usases
 Array and Dynamic Array
+byte array and Dynamic bute array
+Conditional Statement (If,else)
+Loops (For, while and do while)
+Constructor
+Data Types (String , int , uint, bool)
+(Struct) Structure in Solidity

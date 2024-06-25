@@ -1,7 +1,7 @@
 pragma solidity ^0.8.26;
 
-contract Check{
-
+contract Check
+{
     uint age = 10;
 
     function getter() public view returns(uint)
@@ -13,6 +13,4 @@ contract Check{
     {
         age = newage;
     }
-
-
 }
