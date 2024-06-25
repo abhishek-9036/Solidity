@@ -1,2 +1,5 @@
 
 State Variable & Local Variable
+Getter & Setter function
+Pure and View Usases
+Array and Dynamic Array
